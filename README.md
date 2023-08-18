@@ -4,7 +4,7 @@ I'm a curious guy that want to learn new stuff.
 
 🎮-I'm game dev
 
-🖥️-I've start to learn front-end
+🖥️-Learning Backend
 
 # Knowledges:
 ``Java``
@@ -13,15 +13,11 @@ I'm a curious guy that want to learn new stuff.
 
 ``Unity``
 
+``Construct 3``
+
 # Current Learning:
-``HTML``
-
-``CSS``
-
-``JavaScript``
-
-``React``
-
-
+``Springboot``
+``Kotlin``
+``SQL``
 
 [![Caiiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiiru&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
