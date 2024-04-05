@@ -19,5 +19,6 @@ I'm a curious guy that want to learn new stuff.
 ``Springboot``
 ``Kotlin``
 ``SQL``
+``Godot and GD Script``
 
 [![Caiiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiiru&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
