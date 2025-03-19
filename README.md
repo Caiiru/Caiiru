@@ -1,24 +1,17 @@
-### Hi there 👋 I'm Caiiru
+### Hello there 👋 Im Caiiru
 
-I'm a curious guy that want to learn new stuff.
 
-🎮-I'm game dev
+🎮-Game Programmer:
+    - Unity
+    - Unreal (blueprint) 
+    - Construct 3 
+📒-Game Designer
+🧩-Level Designer
+🖥️-Backend Dev:
+    -Kotlin
+    -Java
+    -MySQL
 
-🖥️-Learning Backend
-
-# Knowledges:
-``Java``
-
-``C#``
-
-``Unity``
-
-``Construct 3``
-
-# Current Learning:
-``Springboot``
-``Kotlin``
-``SQL``
-``Godot and GD Script``
+Love to learn new things
 
 [![Caiiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiiru&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
