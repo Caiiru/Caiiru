@@ -1,38 +1,52 @@
-# Hello there 👋 Im Caiiru
+# 🧙‍♂️ Caio Proença - Caiiru
+
+`Game Developer`
+
+Im Caiiru, back-end and game dev. I passionate to learn new things. Always trying to be bether than the last day 🔥 
+
 
 22y - Brazilian 
 
+📒Game Designer
+
+🧩Level Designer
+
+🎮 Game Programmer:
+```
+    Unity
+    C#
+    Unreal (blueprint) 
+    Construct 3 nodes
+```
+
+🖥️Backend Dev:
+```
+    Kotlin
+    Java
+    Spring
+    Jpa
+    MySQL
+```
+
+[![Caiiru Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiiru&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🎮-Game Programmer:
-
-    - Unity
-
-    - Unreal (blueprint) 
-
-    - Construct 3 
-
-    
-📒-Game Designer
+## 🪖 Working on: GRASP  
 
 
-🧩-Level Designer
+## 📝 Current (Re)Learning: Backend on kotlin
+Relearning spring and backend on kotlin using JPA and Jakarta Validation.
 
+## 📝 List to Learn
 
-🖥️-Backend Dev:
+- [ ] Unity DOTS & ECS
+- [ ] Unity Mobile Building
+- [ ] Unity Mobile Optimization
+- [ ] Unreal C++ Begginning
+- [ ] Unreal Lightning
+- [ ] Backend: Cloud Publish 
 
-    -Kotlin
-
-    -Java
-
-    -Spring
-
-    -MySQL
-
-
-Love to learn new things and make new friends
-
-### come talk to me: 
+## Come talk to me: 
 
 🎙️ Discord: Caiiru
 
@@ -40,4 +54,4 @@ Love to learn new things and make new friends
 
 ⛽
 
-[![Caiiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiiru&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Caiiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiiru&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
