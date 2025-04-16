@@ -54,8 +54,8 @@ Relearning spring and backend on kotlin using JPA and Jakarta Validation.
 
 📧 Email: caiiru@outlook.com
 
-### Play one of my games
-https://caiiru.itch.io/
+### Play one of my games 
+[🕹️Itch.io](https://caiiru.itch.io/)
 
 ⛽
 
