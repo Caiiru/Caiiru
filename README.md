@@ -46,11 +46,16 @@ Relearning spring and backend on kotlin using JPA and Jakarta Validation.
 - [ ] Unreal Lightning
 - [ ] Backend: Cloud Publish 
 
+
+
 ## Come talk to me: 
 
 🎙️ Discord: Caiiru
 
 📧 Email: caiiru@outlook.com
+
+### Play one of my games
+https://caiiru.itch.io/
 
 ⛽
 
