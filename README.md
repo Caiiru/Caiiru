@@ -34,8 +34,8 @@ Im Caiiru, back-end and game dev. I passionate to learn new things. Always tryin
 ## 🪖 Working on: GRASP  
 
 
-## 📝 Current (Re)Learning: Backend on kotlin
-Relearning spring and backend on kotlin using JPA and Jakarta Validation.
+## 📝 Current Learning: Unity Multiplayer: NetCode For Game Objects
+Learning and using Unity multiplayer service in GRASP
 
 ## 📝 List to Learn
 
@@ -44,7 +44,10 @@ Relearning spring and backend on kotlin using JPA and Jakarta Validation.
 - [ ] Unity Mobile Optimization
 - [ ] Unreal C++ Begginning
 - [ ] Unreal Lightning
-- [ ] Backend: Cloud Publish 
+- [X] Backend: Cloud Publish
+- [X] Unity Multiplayer Lobby
+- [ ] Unity Multiplayer Relay
+- [ ] Unity Netcode for GameObjects
 
 
 
