@@ -34,8 +34,7 @@ Im Caiiru, back-end and game dev. I passionate to learn new things. Always tryin
 ## 🪖 Working on: GRASP  
 
 
-## 📝 Current Learning: Unity Multiplayer: NetCode For Game Objects
-Learning and using Unity multiplayer service in GRASP
+## 🔨 Current Working on - Finishing GRASP MVP
 
 ## 📝 List to Learn
 
@@ -46,8 +45,8 @@ Learning and using Unity multiplayer service in GRASP
 - [ ] Unreal Lightning
 - [X] Backend: Cloud Publish
 - [X] Unity Multiplayer Lobby
-- [ ] Unity Multiplayer Relay
-- [ ] Unity Netcode for GameObjects
+- [X] Unity Multiplayer Relay
+- [X] Unity Netcode for GameObjects
 
 
 
