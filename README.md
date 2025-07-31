@@ -15,7 +15,8 @@ Im Caiiru, back-end and game dev. I passionate to learn new things. Always tryin
 ```
     Unity
     C#
-    Unreal (blueprint) 
+    Unreal (blueprint)
+    Cocos Creator (Js & Ts) 
     Construct 3 nodes
 ```
 
@@ -24,7 +25,7 @@ Im Caiiru, back-end and game dev. I passionate to learn new things. Always tryin
     Kotlin
     Java
     Spring
-    Jpa
+    NodeJs
     MySQL
 ```
 
@@ -34,7 +35,7 @@ Im Caiiru, back-end and game dev. I passionate to learn new things. Always tryin
 ## 🪖 Working on: GRASP  
 
 
-## 🔨 Current Working on - Finishing GRASP MVP
+## 🔨 Current Working on - Migrating Grasp to Cocos Creator
 
 ## 📝 List to Learn
 
