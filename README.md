@@ -29,7 +29,7 @@ Always giving my 100%
     MySQL
 ```
 
-[![Caiiru Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiiru&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Caiiru Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiiru&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🪖 Working on: GRASP  
