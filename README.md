@@ -2,8 +2,8 @@
 
 `Game Developer`
 
-Im Caiiru, back-end and game dev. I passionate to learn new things. Always trying to be bether than the last day 🔥 
-
+Im Caiiru, backend and gamedev. Love learn new things. 
+Always giving my 100%
 
 22y - Brazilian 
 
@@ -35,7 +35,7 @@ Im Caiiru, back-end and game dev. I passionate to learn new things. Always tryin
 ## 🪖 Working on: GRASP  
 
 
-## 🔨 Current Working on - Migrating Grasp to Cocos Creator
+## 🔨 Current Working on - Developing Websocket Server 
 
 ## 📝 List to Learn
 
@@ -51,7 +51,7 @@ Im Caiiru, back-end and game dev. I passionate to learn new things. Always tryin
 
 
 
-## Come talk to me: 
+## Contact: 
 
 🎙️ Discord: Caiiru
 
