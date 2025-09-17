@@ -32,14 +32,14 @@ Always giving my 100%
 [![Caiiru Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiiru&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🪖 Working on: GRASP  
+## 🪖 Project on fire: Questionist & Soul Hunterz  
 
 
-## 🔨 Current Working on - Developing Websocket Server 
+## 🔨 Current Working on - Polish Questionist MVP & Soul Hunterz MVP
 
 ## 📝 List to Learn
 
-- [ ] Unity DOTS & ECS
+- [ ] Unity DOTS & ECS <- Next
 - [ ] Unity Mobile Building
 - [ ] Unity Mobile Optimization
 - [ ] Unreal C++ Begginning
@@ -48,6 +48,7 @@ Always giving my 100%
 - [X] Unity Multiplayer Lobby
 - [X] Unity Multiplayer Relay
 - [X] Unity Netcode for GameObjects
+- [X] Unity Netcode for Entities
 
 
 
