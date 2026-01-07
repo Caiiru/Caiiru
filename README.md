@@ -35,7 +35,7 @@ Always giving my 100%
 ## 🪖 Project on fire: Questionist & Soul Hunterz  
 
 
-## 🔨 Current Working on - Polish Questionist MVP & Soul Hunterz MVP
+## 🔨 Current Working on - New Questionist Version in Unity
 
 ## 📝 List to Learn
 
@@ -48,7 +48,7 @@ Always giving my 100%
 - [X] Unity Multiplayer Lobby
 - [X] Unity Multiplayer Relay
 - [X] Unity Netcode for GameObjects
-- [X] Unity Netcode for Entities
+- [ ] Unity Netcode for Entities
 
 
 
