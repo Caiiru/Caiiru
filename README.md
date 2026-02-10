@@ -29,7 +29,7 @@ Always giving my 100%
     MySQL
 ```
 
-[![Caiiru Top Langs](github-readme-stats-caiirus-projects.vercel.app/api/top-langs/?username=Caiiru&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Caiiru Top Langs](https://github-readme-stats-caiirus-projects.vercel.app/api/top-langs/?username=Caiiru&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🪖 Project on fire: Questionist & Soul Hunterz  
@@ -63,4 +63,4 @@ Always giving my 100%
 
 ⛽
 
-[![Caiiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiiru&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Caiiru's GitHub stats](https://github-readme-stats-caiirus-projects.vercel.app/api?username=caiiru&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
