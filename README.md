@@ -28,10 +28,11 @@ Always giving my 100%
     NodeJs
     MySQL
 ```
-
+<details>
+    <summary>⚡ GITHUB Stats </summary>
 ![Caiiru Top Langs](https://github-readme-stats-caiirus-projects.vercel.app/api/top-langs/?username=Caiiru&theme=dracula&layout=donut)
-
-
+<img align="left" alt="caiiru github stats" src="https://github-readme-stats-caiirus-projects.vercel.app/api?username=caiiru&theme=dracula&show_icons=true"/>
+</details>
 ## 🪖 Project on fire: Questionist & Soul Hunterz  
 
 
