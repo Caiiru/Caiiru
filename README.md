@@ -29,7 +29,7 @@ Always giving my 100%
     MySQL
 ```
 
-[![Caiiru Top Langs](https://github-readme-stats-caiirus-projects.vercel.app/api/top-langs/?username=Caiiru&theme=dracula&layout=donut)] 
+[!Caiiru Top Langs](https://github-readme-stats-caiirus-projects.vercel.app/api/top-langs/?username=Caiiru&theme=dracula&layout=donut)
 
 
 ## 🪖 Project on fire: Questionist & Soul Hunterz  
