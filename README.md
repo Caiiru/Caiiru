@@ -18,6 +18,7 @@ Always giving my 100%
     Unreal (blueprint)
     Cocos Creator (Js & Ts) 
     Construct 3 nodes
+    PixiJs (Javascript & Typescript)
 ```
 
 🖥️Backend Dev:
