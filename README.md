@@ -2,8 +2,9 @@
 
 `Game Developer`
 
-Im Caiiru, backend and gamedev. Love learn new things. 
-Always giving my 100%
+I'm Caiiru, backend and gamedev.
+
+
 
 22y - Brazilian 
 
