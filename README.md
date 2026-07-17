@@ -30,26 +30,7 @@ I'm Caiiru, backend and gamedev.
     NodeJs
     MySQL
 ```
- 
-## 🪖 Project on fire: Proscryption
-
-
-## 🔨 Current Working on - Proscryption and freelances
-
-## 📝 List to Learn
-
-- [ ] Unity DOTS & ECS 
-- [ ] Unity Mobile Building
-- [ ] Unity Mobile Optimization
-- [ ] Unreal C++ Begginning
-- [ ] Unreal Lightning
-- [ ] Unreal Optimization
-- [X] Backend: Cloud Publish
-- [X] Unity Multiplayer Lobby
-- [X] Unity Multiplayer Relay
-- [X] Unity Netcode for GameObjects
-- [ ] Unity Netcode for Entities
-
+  
 
 
 ## Contact: 
